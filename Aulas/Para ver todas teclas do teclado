@@ -1,0 +1,9 @@
+Para ver todas possiveis teclas, rode:
+print(pyautogui.KEYBOARD_KEYS)
+Como usar  combinações de teclas
+pyautogui.click(x=,y=,duration=)
+Simular "segurar uma tecla"
+pyautogui.hotkey('ctrl','a')
+pyautogui.hotkey('ctrl','c')
+pyautogui.click(x=,y=,duration=)
+pyautogui.hotkey('ctrl','v')
