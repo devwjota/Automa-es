@@ -41,7 +41,7 @@ pyautogui.moveTo(916,617,duration=3)
 pyautogui.hotkey('enter')
 # Salvar senha se quiser
 # pyautogui.moveTo(1327,362,duration=3)
-# pyautogui.click
+# pyautogui.click()
 # Continuar conectado ?
 pyautogui.moveTo(922,603,duration=3)
 pyautogui.click()
